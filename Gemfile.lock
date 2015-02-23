@@ -1,0 +1,15 @@
+PATH
+  remote: ../james_obd
+  specs:
+    obd (0.0.3)
+      serialport (~> 1.3)
+
+GEM
+  specs:
+    serialport (1.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  obd!
